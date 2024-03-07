@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="../public/269755769_10166071563130217_4217701679363898637_n.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Vanessa Pursley
+    </div>
+    <p
+      className="card-text"
+    >
+      Learning Software development via NC State's continuing education departement. Ideal position will be a developer of educational technology for use in public schools.
+    </p>
+    <a
+      className="btn btn-link"
+      disabled={false}
+      href="https://github.com/vmlayton87"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      My student GitHub Link
+    </a>
+  </div>
+</div>
+`;
